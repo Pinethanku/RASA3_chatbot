@@ -39,10 +39,6 @@
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
 ## Contact
 
 email  - pinethanku21@gmail.com

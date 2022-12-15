@@ -19,31 +19,6 @@
 - konlpy : tokenizer 구현에 Mecab 형태소 분석기 사용
 - Glove 임베딩 데이터 : featurizer 구현에 [학습이 완료된 단어 수준 임베딩 데이터](https://ratsgo.github.io/embedding/downloaddata.html) 사용
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used

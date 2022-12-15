@@ -22,21 +22,20 @@
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Minseo Kim** - *NLP* - [minseo0228](https://github.com/minseo0228)
+* **Seoyun0626** - *yml files* - [Seoyun0626](https://github.com/Seoyun0626)
+* **kkjimin12** - *yml files* - [kkjimin12](https://github.com/kkjimin12)
+* **alswn874** - *yml files* - [alswn874](https://github.com/alswn874)
+* **Pinethanku** - *NLP* - [Pinethanku](https://github.com/Pinethanku)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
@@ -46,6 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Pine  - pinethanku21@gmail.com
+email  - pinethanku21@gmail.com
 
 Project Link: [https://www.notion.so/RASA-179c4128ea9d48cd80f947e40335d239](https://www.notion.so/RASA-179c4128ea9d48cd80f947e40335d239)

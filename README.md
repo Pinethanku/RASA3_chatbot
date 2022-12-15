@@ -8,9 +8,6 @@
 
 ![](../header.png)
 
-## Built with
-- Python 3.8
-- RASA 3.1
 
 ## Getting Started
 
@@ -19,11 +16,9 @@
 - konlpy : tokenizer 구현에 Mecab 형태소 분석기 사용
 - Glove 임베딩 데이터 : featurizer 구현에 [학습이 완료된 단어 수준 임베딩 데이터](https://ratsgo.github.io/embedding/downloaddata.html) 사용
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Built with
+- Python 3.8
+- RASA 3.1
 
 ## Contributing
 

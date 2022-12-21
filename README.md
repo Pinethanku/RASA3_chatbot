@@ -22,9 +22,8 @@
 
 ## Contributing
 
-
-## Versioning
-
+## Github References
+* [Tokenizer, Featurizer](https://github.com/sangjun0412/-Automation-program-based-on-statement-analysis-to-detect-the-authenticity-of-statements)
 
 ## Authors
 
@@ -36,11 +35,7 @@
 
 ## License
 
-
 ## Acknowledgments
-
-## Github References
-* [Tokenizer, Featurizer](https://github.com/sangjun0412/-Automation-program-based-on-statement-analysis-to-detect-the-authenticity-of-statements)
 
 ## Contact
 

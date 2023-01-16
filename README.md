@@ -20,25 +20,15 @@
 - Python 3.8
 - RASA 3.1
 
-## Contributing
-
-## Github References
+## References
 * [Tokenizer, Featurizer](https://github.com/sangjun0412/-Automation-program-based-on-statement-analysis-to-detect-the-authenticity-of-statements)
 
-## Authors
+## Team Members
 
 * **Minseo Kim** - *NLP* - [minseo0228](https://github.com/minseo0228)
 * **Seoyun0626** - *yml files* - [Seoyun0626](https://github.com/Seoyun0626)
 * **kkjimin12** - *yml files* - [kkjimin12](https://github.com/kkjimin12)
 * **alswn874** - *yml files* - [alswn874](https://github.com/alswn874)
 * **Pinethanku** - *NLP* - [Pinethanku](https://github.com/Pinethanku)
-
-## License
-
-## Acknowledgments
-
-## Contact
-
-email  - pinethanku21@gmail.com
 
 Project Link: [https://www.notion.so/RASA-179c4128ea9d48cd80f947e40335d239](https://www.notion.so/RASA-179c4128ea9d48cd80f947e40335d239)
